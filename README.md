@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Milla Nebias 😁
+## Bem-vindo(a) ao perfil da Milla Nebias 
 
  <div>
    <a href="https://github.com/MillaNebias">
